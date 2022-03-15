@@ -623,3 +623,12 @@
     line-height: 171%;
     font-weight: 600;
 }
+
+@media (max-width: 767px){
+    .whoweare{
+        padding: 20px 0px 50px 0px;
+    }
+    .whoweare__video:not(:last-child){
+        margin: 20px 0px 0px 0px;
+    }
+}
